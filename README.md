@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MyLu004
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Python and programming
-- 💞️ I’m looking for intership in summer 2023
+- 🌱 I’m currently learning Python and C#
+- 👀 Interesting in Game Developer
 - 📫 Email: myluwork004@gmail.com
 
 <!---
