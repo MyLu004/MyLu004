@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Task Leaf [study web]](https://mylu004.github.io/Task-Leaf/)
 
-- 🌱 I’m currently learning **Javascript, C++**
+- 🌱 I’m currently learning **Javascript**
 
 - 📫 How to reach me **myluwork004@gmail.com**
 
