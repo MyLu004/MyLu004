@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm My Lu</h1>
+<h1 align="center">Hi ⸜(*ˊᗜˋ*)⸝, I'm My Lu</h1>
 <h3 align="center">CSULB computer science sophomore. Interesting in front end and game dev. Actively Seeking Internship Opportunities</h3>
 
 - 🔭 I’m currently working on [Task Leaf [study web]](https://mylu004.github.io/Task-Leaf/)
