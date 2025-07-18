@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **myluwork004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1v4ta7Gwg8DXfc4XpugvCLZYSudzGqMAY/view?usp=sharing](https://drive.google.com/file/d/1v4ta7Gwg8DXfc4XpugvCLZYSudzGqMAY/view?usp=sharing)
+- 📄 Know about my experiences: [Resume :3](https://drive.google.com/file/d/1v4ta7Gwg8DXfc4XpugvCLZYSudzGqMAY/view?usp=sharing)
 
 - ⚡ Fun fact **I like to read book. Currently reading Man's Search for Meaning**
 
