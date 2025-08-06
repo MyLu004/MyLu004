@@ -11,8 +11,6 @@
 
 - 📄 Know about my experiences: [Resume :3](https://drive.google.com/file/d/1v4ta7Gwg8DXfc4XpugvCLZYSudzGqMAY/view?usp=sharing)
 
-- ⚡ Fun fact **I like to read book. Currently reading Man's Search for Meaning**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/my-lu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/my-lu" height="30" width="40" /></a>
