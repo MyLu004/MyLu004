@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm My Lu</h1>
 <h3 align="center">CSULB computer science sophomore. Enjoy developing full-stack applications, exploring AI/ML, and contributing to tech communities!</h3>
 
-- 🔭 I’m currently working on [Chatbot](https://github.com/MyLu004/OnTash---Intership/tree/master/ChatBot)
+- 🔭 I’m currently working on [HealthCare Dashboard](https://github.com/MyLu004/Healthcare-Patient-Dashboard)
 
 - 🌱 I’m currently learning **React, ThreeJS, Fullstack, AI/ML**
 
