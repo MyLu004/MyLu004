@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm My Lu</h1>
-<h3 align="center">CSULB computer science sophomore. Enjoy developing full-stack applications, exploring AI/ML, and contributing to tech communities!</h3>
+<h3 align="center">CSULB computer science senior. Enjoy developing full-stack applications, exploring AI/ML, and contributing to tech communities!</h3>
 
 - 🔭 I’m currently working on [HealthCare Dashboard](https://github.com/MyLu004/Healthcare-Patient-Dashboard)
 
